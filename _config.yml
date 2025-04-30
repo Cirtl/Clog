@@ -6,9 +6,9 @@
 title: Cirtl
 subtitle: ''
 description: ''
-keywords: Sirius
+keywords: 
 author: Jiaji Tian
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -100,7 +100,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: flexblock
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

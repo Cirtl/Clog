@@ -1,7 +1,9 @@
 ### 说明
 
-本仓库基于[hexo](https://hexo.io/zh-cn/)搭建博客网站，使用[Cloudflare](https://www.cloudflare.com/)的免费服务对外发布，借助Github Action实现自动化构建和部署。
+本仓库基于[hexo](https://hexo.io/zh-cn/)搭建博客网站, 在GitHub上进行文件托管, 使用[Netlify](https://www.netlify.com/)部署静态网站, 使用[Cloudflare](https://www.cloudflare.com/)提供CDN加速和国内访问。
 
 ### 操作指令
 
- 
+* hexo new [layout] <title>：创建新文章或页面, 默认布局为post
+* hexo generate: 生成静态文件到public目录
+* hexo server: 本地预览网站, 默认端口4000
