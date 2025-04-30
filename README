@@ -1,0 +1,7 @@
+### 说明
+
+本仓库基于[hexo](https://hexo.io/zh-cn/)搭建博客网站，使用[Cloudflare](https://www.cloudflare.com/)的免费服务对外发布，借助Github Action实现自动化构建和部署。
+
+### 操作指令
+
+ 
